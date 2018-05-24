@@ -1,0 +1,11 @@
+{
+  "name": "remote-control",
+  "version": "1.0.0",
+  "description": "",
+  "main": "remote-control.js",
+  "scripts": {
+    "test": "ts-node remote-control.ts"
+  },
+  "author": "Andrew Brantley",
+  "license": "ISC"
+}
